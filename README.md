@@ -29,7 +29,7 @@ Jupyter Notebooks for anything data science.
 
 | **Notebook** | **Description** |
 | --- | --- |
-| Linear Regression | ... |
+| Linear Regression | Linear regression is a supervised learning algorithm used to predict a response variable from explanatory variable(s). |
 | Logistic Regression | ... |
 | Neural Network (ANN, RNN, CNN) | ... |
 | Naive Bayes | ... |
